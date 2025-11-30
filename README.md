@@ -1,0 +1,70 @@
+# 🎨 Master HTML & CSS – 20+ Real Web Projects  
+A complete collection of **20+ real-world HTML & CSS projects** built to master frontend development with hands-on practice.  
+Each project focuses on modern UI, layout design, responsive techniques, and clean code.
+
+---
+
+## 🚀 About This Repository
+This repository is part of my journey to strengthen my HTML & CSS skills by building **daily real-world projects**.  
+Every folder contains a complete mini-project with source code, screenshots, and a short project description.
+
+---
+
+## 📂 Project Structure
+
+```
+Master-HTML-CSS-20-Projects/
+│
+├── Project-01-student-card/
+├── ...
+└── README.md
+
+```
+
+---
+
+📘 Projects Included (Updated Daily)
+#	Project Name	Status
+| #   | Project Name        | Status         |
+| --- | ------------------- | -------------- |
+| 01  | Student Card        | ✅ Completed   |
+| ... | ...                 | ...            |
+
+---
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- Grid Layout
+- Responsive Design
+- Modern UI/UX Elements
+
+---
+
+## 🎯 Learning Goals
+- Master HTML tags & structure
+- Build real-world UIs
+- Understand responsive design
+- Practice Flexbox & Grid deeply
+- Improve clean coding habits
+
+---
+
+## 📅 Daily Progress
+I upload one new project every day, maintaining consistent development practice and continuous learning.
+
+---
+
+## 🤝 Contribute
+Feel free to open issues or suggest new project ideas!
+
+---
+
+## ⭐ Support
+If you like this repository, please consider giving it a star ⭐ on GitHub — it motivates me to keep building more projects!
+
+---
+
+## 🔥 Let’s Build!
+20+ Real Projects. Pure HTML & CSS. 100% Practical Learning.
