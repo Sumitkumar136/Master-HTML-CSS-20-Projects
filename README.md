@@ -23,12 +23,12 @@ Master-HTML-CSS-20-Projects/
 
 ---
 
-📘 Projects Included (Updated Daily)
-#	Project Name	Status
-| #   | Project Name        | Status         |
-| --- | ------------------- | -------------- |
-| 01  | Student Card        | ✅ Completed   |
-| ... | ...                 | ...            |
+## 📘 Projects Included (Updated Daily)
+
+| #   | Project Name        | Status         | Demo Link                                                         |
+| --- | ------------------- | -------------- | ----------------------------------------------------------------- |
+| 01  | Student Card        | ✅ Completed    | [View Demo](#) |
+| ... | ...                 | ...            | ...                                                               |
 
 ---
 
