@@ -41,6 +41,9 @@ The page highlights the developer’s profile with a clean, modern, and interact
 
 A clean card featuring:
 
+<img width="1906" height="987" alt="image" src="https://github.com/user-attachments/assets/d9f23e3f-bda2-4134-80b4-1b43f47408b8" />
+
+
 * Profile image
 * Name & short bio
 * Social links (YouTube, GitHub, Instagram, LinkedIn, Email)
