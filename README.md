@@ -16,6 +16,7 @@ Every folder contains a complete mini-project with source code, screenshots, and
 Master-HTML-CSS-20-Projects/
 │
 ├── Project-1 Student Card/
+├── Project-2 Links Page/
 ├── ...
 └── README.md
 
@@ -28,6 +29,7 @@ Master-HTML-CSS-20-Projects/
 | #   | Project Name        | Status         | Demo Link                                                         |
 | --- | ------------------- | -------------- | ----------------------------------------------------------------- |
 | 01  | Student Card        | ✅ Completed    | [View Demo](https://1-student-card.vercel.app/) |
+| 02  | Links Page          | ✅ Completed    | [View Demo](https://2-links-page.vercel.app/) |
 | ... | ...                 | ...            | ...                                                               |
 
 ---
