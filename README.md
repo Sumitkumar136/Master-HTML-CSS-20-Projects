@@ -17,6 +17,7 @@ Master-HTML-CSS-20-Projects/
 │
 ├── Project-1 Student Card/
 ├── Project-2 Links Page/
+├── Project-3 Blog Post Card/
 ├── ...
 └── README.md
 
@@ -26,10 +27,11 @@ Master-HTML-CSS-20-Projects/
 
 ## 📘 Projects Included (Updated Daily)
 
-| #   | Project Name        | Status         | Demo Link                                                         |
-| --- | ------------------- | -------------- | ----------------------------------------------------------------- |
-| 01  | Student Card        | ✅ Completed    | [View Demo](https://1-student-card.vercel.app/) |
-| 02  | Links Page          | ✅ Completed    | [View Demo](https://2-links-page.vercel.app/) |
+| #   | Project Name        | Status         | Demo Link                                                          |
+| --- | ------------------- | -------------- | -----------------------------------------------------------------  |
+| 01  | Student Card        | ✅ Completed    | [View Demo](https://1-student-card.vercel.app/)                  |
+| 02  | Links Page          | ✅ Completed    | [View Demo](https://2-links-page.vercel.app/)                    |
+| 03  | Blog Post Card      | ✅ Completed    | [View Demo](https://3-blog-post-card.vercel.app/)                |
 | ... | ...                 | ...            | ...                                                               |
 
 ---
