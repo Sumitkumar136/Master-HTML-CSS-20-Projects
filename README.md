@@ -19,6 +19,7 @@ Master-HTML-CSS-20-Projects/
 ├── Project-2 Links Page/
 ├── Project-3 Blog Post Card/
 ├── Project-4 Time Line/
+├── Project-5 Newsletter Subscription/
 ├── ...
 └── README.md
 
@@ -34,6 +35,7 @@ Master-HTML-CSS-20-Projects/
 | 02  | Links Page          | ✅ Completed    | [View Demo](https://2-links-page.vercel.app/)                    |
 | 03  | Blog Post Card      | ✅ Completed    | [View Demo](https://3-blog-post-card.vercel.app/)                |
 | 04  | Time Line           | ✅ Completed    | [View Demo](https://4-timeline.vercel.app/)                      |
+| 05  | Newsletter Subscription| ✅ Completed    | [View Demo](https://5-newsletter-subscription.vercel.app/)                      |
 | ... | ...                 | ...              | ...                                                              |
 
 ---
