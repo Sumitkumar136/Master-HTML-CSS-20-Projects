@@ -39,6 +39,8 @@ This project presents a food recipe with an image, ingredients list, and step-by
 
 ## 📸 **Preview**
 
+<img width="1897" height="958" alt="image" src="https://github.com/user-attachments/assets/47077e7e-9b30-407b-bfb1-456cdff25f00" />
+
 The card displays:
 
 * Recipe image
