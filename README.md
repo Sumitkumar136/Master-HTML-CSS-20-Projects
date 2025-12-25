@@ -21,6 +21,7 @@ Master-HTML-CSS-20-Projects/
 ├── Project-4 Time Line/
 ├── Project-5 Newsletter Subscription/
 ├── Project-6 Recipe/
+├── Project-7 Poetry layout/
 ├── ...
 └── README.md
 
@@ -38,6 +39,7 @@ Master-HTML-CSS-20-Projects/
 | 04  | Time Line           | ✅ Completed    | [View Demo](https://4-timeline.vercel.app/)                      |
 | 05  | Newsletter Subscription| ✅ Completed | [View Demo](https://5-newsletter-subscription.vercel.app/)       |
 | 06  | Recipe              | ✅ Completed    | [View Demo](https://6-recipe.vercel.app/)                        |
+| 07  | Poetry layout       | ✅ Completed    | [View Demo](https://7-poetry-layout.vercel.app/)                 |
 | ... | ...                 | ...              | ...                                                              |
 
 ---
