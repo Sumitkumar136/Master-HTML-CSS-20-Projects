@@ -23,7 +23,7 @@ Master-HTML-CSS-20-Projects/
 ├── Project-6 Recipe/
 ├── Project-7 Poetry layout/
 ├── ...
-├── LICENSE
+├── LICENSE (MIT License)
 └── README.md
 
 ```
