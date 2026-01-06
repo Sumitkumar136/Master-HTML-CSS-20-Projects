@@ -23,6 +23,7 @@ Master-HTML-CSS-20-Projects/
 ├── Project-6 Recipe/
 ├── Project-7 Poetry layout/
 ├── Project-8 Register Form/
+├── Project-9 Todo List/
 ├── ...
 ├── LICENSE (MIT License)
 └── README.md
@@ -43,6 +44,7 @@ Master-HTML-CSS-20-Projects/
 | 06  | Recipe              | ✅ Completed    | [View Demo](https://6-recipe.vercel.app/)                        |
 | 07  | Poetry layout       | ✅ Completed    | [View Demo](https://7-poetry-layout.vercel.app/)                 |
 | 08  | Register Form       | ✅ Completed    | [View Demo](https://8-register-form.vercel.app/)                 |
+| 09  | Todo List           | ✅ Completed    | [View Demo](https://9-todo-list.vercel.app/)                     |
 | ... | ...                 | ...              | ...                                                              |
 
 ---
